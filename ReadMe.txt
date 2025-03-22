@@ -4,3 +4,5 @@ Software carpentry Notes
 
 This morning was Shell.
 Now we have git.
+
+New addtion for final commit: Good!
